@@ -14,7 +14,7 @@ export default function Home() {
           <div>
             <div className="mb-16">
               <div className="text-lg font-medium text-gray-800">
-                <p className="text-gray-800 mb-6"> Hello, I'm Jana</p>
+                <p className="text-gray-800 mb-6"> Hello, I&apos;m Jana</p>
                 <p className="text-gray-800 leading-8">
                   I shape pixels into experiences, chasing the invisible threads
                   of UX that guide every click, while constantly learning and
@@ -153,7 +153,7 @@ export default function Home() {
                     <div className="flex items-center justify-center gap-6">
                       <span className="h-1 w-1 rounded bg-gray-600 inline-flex group-hover:rounded-none group-hover:bg-purple-500"></span>
                       <p className="group-hover:text-red">
-                        The Ripple Effect: Understanding JavaScript’s Event
+                        The Ripple Effect: Understanding JavaScript&apos;s Event
                         Propagation
                       </p>
                     </div>
@@ -196,7 +196,7 @@ export default function Home() {
                     <div className="flex items-center justify-center gap-6">
                       <span className="h-1 w-1 rounded bg-gray-600 inline-flex group-hover:rounded-none group-hover:bg-purple-500"></span>
                       <p className="group-hover:text-red">
-                        The Hidden Orchestrator: JavaScript’s Event Loop and
+                        The Hidden Orchestrator: JavaScript&apos;s Event Loop and
                         Call Stack
                       </p>
                     </div>
