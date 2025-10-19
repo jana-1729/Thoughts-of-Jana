@@ -1,6 +1,6 @@
 export default function Home() {
   return (
-    <div className="bg-gray-50">
+    <div className="bg-gray-50  py-14">
       <div className="p-4 container md:max-w-4xl mx-auto">
         <div className="group">
           <span className="group-hover:text-purple-700 text-xl text-blue-900 font-semibold">
@@ -10,7 +10,7 @@ export default function Home() {
       </div>
 
       <main>
-        <div className="container max-w-4xl mx-auto p-4 py-14">
+        <div className="container max-w-4xl mx-auto px-4">
           <div>
             <div className="mb-16">
               <div className="text-lg font-medium text-gray-800">
